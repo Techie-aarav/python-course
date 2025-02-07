@@ -1,0 +1,6 @@
+def change():
+    n = float(input("Enter the cost of the product: "))
+    a = float(input("Enter the amount paid by the costumer: "))
+    change = a-n
+    return(change)
+print(change()) to 9

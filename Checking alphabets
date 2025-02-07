@@ -1,0 +1,5 @@
+t=int(input("Please insert todays temperature :"))
+if (t<20):
+    print("Jacket is required.")
+else:
+    print("Jacket is not required")
